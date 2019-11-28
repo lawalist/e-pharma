@@ -1,5 +1,7 @@
 {
   "name": "e-parma",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
